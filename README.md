@@ -3,7 +3,7 @@ Play wordle in the terminal.
 <br>
 Made in Python.
 
-#How the game works
+# How the game works
 <ul>
   <li>the player gets six chances to guess a five lettered word.</li>
   <li>an array of "_" is used to emulate the yellow and green boxes in the original game</li>
